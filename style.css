@@ -1,7 +1,6 @@
 *{
     padding: 0;
     margin: 0;
-    /* background-color: #469598; */
 }
 
 .header{
@@ -10,7 +9,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-bottom: 125px; */
 }
 
 .box{
@@ -26,10 +24,8 @@
     padding: 33px;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
 }
 .textarea textarea{
-    /* background-color: #302828; */
     height: 35px;
     width: 200px;
     margin-left: 55px;
